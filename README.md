@@ -98,7 +98,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonrafaeldev&show_icons=true)
+
 <p>
   <img 
     align="left" 
@@ -112,7 +112,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonRafaelDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
