@@ -52,11 +52,12 @@ I'm driven by challenges and the desire to learn more and more. So, let's join f
 
 <img 
     align="left" 
-    alt="MySql" 
-    title="mySQL"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <br/>
 <br/>
