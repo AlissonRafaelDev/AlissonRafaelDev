@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Alisson Rafael
+# 👩👨‍💻 Alisson Rafael
 
-**`Desenvolvedora FullStack`**
+**`A Passionate Internet Systems`**
 
 
 Hello, world!
