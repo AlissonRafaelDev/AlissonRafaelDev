@@ -47,18 +47,9 @@ I'm driven by challenges and the desire to learn more and more. So, let's join f
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://github-readme-stats.vercel.app/api?username=AlissonRafaelDev&show_icons=true))" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
-
+/>
 
 <br/>
 <br/>
