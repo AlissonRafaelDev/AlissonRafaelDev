@@ -2,7 +2,13 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+
+Hello, world!
+My name is Alisson Rafael, I'm 22 years old and I'm from João Pessoa, PB. I'm currently studying Internet Systems at UNIESP (Union of Educational Institutions of the State of São Paulo), where I've been developing skills in Python, HTML, CSS and SQL — combining theory with lots of practice through the active learning methodology.
+
+Before that, I finished high school along with a technical course in Administration, which gave me a good foundation to combine technology and management in my projects.
+
+I'm driven by challenges and the desire to learn more and more. So, let's join forces?
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
