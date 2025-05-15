@@ -98,14 +98,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonrafaeldev&show_icons=true)
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AlissonRafaelDev&show_icons=true)" 
+    src="!(https://github-readme-stats.vercel.app/api?username=alissonrafaeldev&show_icons=true&theme=dark)" 
   />
 
 <img 
