@@ -105,7 +105,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="(https://github-readme-stats.vercel.app/api?username=AlissonRafaelDev&show_icons=true)" 
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonrafaeldev&show_icons=true)" 
   />
 
 <img 
