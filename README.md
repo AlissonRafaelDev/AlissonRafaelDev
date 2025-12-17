@@ -2,13 +2,13 @@
 
 **`A Passionate Internet Systems`**
 
+Olá, mundo!
 
-Hello, world!
-My name is Alisson Rafael, I'm 22 years old and I'm from João Pessoa, PB. I'm currently studying Internet Systems at UNIESP (Union of Educational Institutions of the State of São Paulo), where I've been developing skills in Python, HTML, CSS and SQL — combining theory with lots of practice through the active learning methodology.
+Meu nome é Alisson Rafael, tenho 22 anos e sou de João Pessoa, PB. Atualmente, estudo Sistemas de Internet na UNIESP (União das Instituições de Ensino do Estado de São Paulo), onde venho desenvolvendo habilidades em Python, HTML, CSS e SQL — combinando teoria com muita prática por meio da metodologia de aprendizagem ativa.
 
-Before that, I finished high school along with a technical course in administrative technician, which gave me a good foundation to combine technology and management in my projects.
+Antes disso, concluí o ensino médio com um curso técnico em administração, o que me deu uma boa base para combinar tecnologia e gestão em meus projetos.
 
-I'm driven by challenges and the desire to learn more and more. So, let's join forces?
+Sou movido por desafios e pela vontade de aprender cada vez mais. Então, vamos unir forças?
 
 
 
